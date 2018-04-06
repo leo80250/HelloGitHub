@@ -1,4 +1,4 @@
-package fr.imta.prime.cacao2017.hellogithub;
+package fr.imta.prime.cacao2018.hellogithub;
 
 public class HelloGitHub {
 
